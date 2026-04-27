@@ -107,4 +107,4 @@ Reproducible workflows (Jupyter + Anaconda) make analysis professional and shara
 Alexander O. Ayeni
 
 LinkedIn | GitHub
-https://www.linkedin.com/in/alexander-ayeni-b98750378/ | https://github.com/Xandacool
+https://www.linkedin.com/in/datawithdata | https://github.com/datawithalexander
